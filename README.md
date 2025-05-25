@@ -25,6 +25,7 @@
 1. 레포지토리 클론
    
 git clone https://github.com/vv1277/knowyourrep.git
+
 cd knowyourrep
 
 3. 의존성 설치
